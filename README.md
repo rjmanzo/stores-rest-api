@@ -1,2 +1,4 @@
 # stores-rest-api
-An items, stores, and authentication REST API from the REST API course 
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+
+Deployed on Heroku.
